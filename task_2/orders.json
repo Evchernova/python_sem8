@@ -1,0 +1,60 @@
+{
+    "orders": [
+        {
+            "item": "принтер",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "Йогурт Teos ",
+            "quantity": "1",
+            "price": "56",
+            "buyer": "Петров М.С.",
+            "date": "20.03.2023"
+        },
+        {
+            "item": "Йогурт Ehrmann ",
+            "quantity": "100",
+            "price": "88",
+            "buyer": "Иванов А.И.",
+            "date": "20.03.2023"
+        },
+        {
+            "item": "Банка стеклянная",
+            "quantity": "10",
+            "price": "1900",
+            "buyer": "Еремина А.С.",
+            "date": "20.03.2023"
+        },
+        {
+            "item": "Банка стеклянная",
+            "quantity": "10",
+            "price": "1900",
+            "buyer": "Еремина А.С.",
+            "date": "20.03.2023"
+        }
+    ]
+}
